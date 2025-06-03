@@ -23,10 +23,10 @@ This project is a **FastAPI-based microservice** for real-time **Iris flower cla
 ---
 
 ## 🐳 Run with Docker
-1. 🔨 Clone this repo
-2. 📦Build the Docker image
-3. 🚀Run the container
-4. 🌐 Access the API
+ 1. 🔨 Clone this repo
+ 2. 📦Build the Docker image
+ 3. 🚀Run the container
+ 4. 🌐 Access the API
 
 ---
 
