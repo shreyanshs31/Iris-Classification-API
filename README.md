@@ -15,19 +15,6 @@ This project is a **FastAPI-based microservice** for real-time **Iris flower cla
 
 ---
 
-## 📂 Project Structure
-IRIS-CLASSIFICATION-API/
-├── main.py # FastAPI application
-├── model.py # Model loading and prediction
-├── schema.py # Input/output validation with Pydantic
-├── iris_model.pkl # Trained scikit-learn model
-├── requirements.txt # Dependencies for pip
-├── Dockerfile # Build the Docker image
-├── .dockerignore # Ignore unnecessary files in Docker
-└── README.md # You're reading it
-
----
-
 ## 🧠 Prerequisites
 
 - Python 3.10+ (if running without Docker)
