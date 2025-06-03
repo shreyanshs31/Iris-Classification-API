@@ -39,9 +39,11 @@ Create a virtual environment (optional but recommended)
 `source venv/bin/activate  # or venv\Scripts\activate on Windows`
 
 Install dependencies
+
  `pip install -r requirements.txt`
 
 Run FastAPI server
+
  `uvicorn main:app --reload`
 
 ---
