@@ -32,7 +32,7 @@ This project is a **FastAPI-based microservice** for real-time **Iris flower cla
 
 ## 🛠️ Development (Without Docker)
 
-Create a virtual environment (optional but recommended)
+>Create a virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
