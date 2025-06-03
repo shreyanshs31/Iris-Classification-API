@@ -34,15 +34,15 @@ This project is a **FastAPI-based microservice** for real-time **Iris flower cla
 
 Create a virtual environment (optional but recommended)
 
-python -m venv venv
+`python -m venv venv`
 
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+`source venv/bin/activate  # or venv\Scripts\activate on Windows`
 
 Install dependencies
-pip install -r requirements.txt
+ `pip install -r requirements.txt`
 
 Run FastAPI server
-uvicorn main:app --reload
+ `uvicorn main:app --reload`
 
 ---
 
@@ -53,6 +53,8 @@ Model: scikit-learn (e.g. RandomForest, LogisticRegression, etc.)
 
 Serialized with joblib to iris_model.pkl
 
-📝 License
-MIT License
+---
+
+## 📝 License
+ MIT License
 
